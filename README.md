@@ -1,2 +1,2 @@
 # vue3-starter
-Vue3 starter project with typescript, eslint; having a sample http request.
+Vue3 starter project with Typescript, Eslint; having a sample HTTP request.
