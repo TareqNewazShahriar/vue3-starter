@@ -4,10 +4,6 @@
   padding: 2rem;
 }
 
-a {
-   color: var(--vt-c-white-soft);
-}
-
 @media (min-width: 800px) {
   #app {
     padding: 0 2rem;
